@@ -1,0 +1,7 @@
+C:\Users\Gökçe Ailesi\source\repos\huffman\huffman\bin\Debug\huffman.exe.config
+C:\Users\Gökçe Ailesi\source\repos\huffman\huffman\bin\Debug\huffman.exe
+C:\Users\Gökçe Ailesi\source\repos\huffman\huffman\bin\Debug\huffman.pdb
+C:\Users\Gökçe Ailesi\source\repos\huffman\huffman\obj\Debug\huffman.csproj.AssemblyReference.cache
+C:\Users\Gökçe Ailesi\source\repos\huffman\huffman\obj\Debug\huffman.csproj.CoreCompileInputs.cache
+C:\Users\Gökçe Ailesi\source\repos\huffman\huffman\obj\Debug\huffman.exe
+C:\Users\Gökçe Ailesi\source\repos\huffman\huffman\obj\Debug\huffman.pdb
